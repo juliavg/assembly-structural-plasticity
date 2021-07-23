@@ -5,4 +5,4 @@ This code is a reduced network model that reproduces the main finding of the [pa
 
 You need: 
 Python 3 (numpy, matplotlib, pylab)
-[NEST simulator](https://www.nest-simulator.org/) 2.20.0
+[NEST simulator 2.20.0](https://www.nest-simulator.org/) 
